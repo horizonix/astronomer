@@ -2,5 +2,5 @@
 --// Made by Horizonix Studios
 
 print('Successfully loaded');
-print(UI, UI:GetChildren());
-tweener:SetButtonDefaultTweens(UI.Background.Bar.VisualsButton);tweener:SetButtonDefaultTweens(UI.Background.Bar.LocalPlayerButton);tweener:SetButtonDefaultTweens(UI.Background.Bar.AboutButton);
+print(sys, sys:GetChildren());
+tweener:SetButtonDefaultTweens(sys.Background.Bar.VisualsButton);tweener:SetButtonDefaultTweens(sys.Background.Bar.LocalPlayerButton);tweener:SetButtonDefaultTweens(sys.Background.Bar.AboutButton);
