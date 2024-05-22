@@ -1,4 +1,4 @@
-# CREEDIT GOES TO: Loadstring Module, Yueliang, FiOne, Moonshine
+# CREDIT GOES TO: Loadstring Module, Yueliang, FiOne, Moonshine
 # This would not have been possilble without them.
 # Links: 
 			- FiOne LBI (created by same author as Rerubi) - https://github.com/Rerumu/FiOne
