@@ -1,5 +1,5 @@
 # CREDIT GOES TO: Loadstring Module, Yueliang, FiOne, Moonshine
-# This would not have been possilble without them.
+# This would not have been possible without them.
 # Links: 
 			- FiOne LBI (created by same author as Rerubi) - https://github.com/Rerumu/FiOne
 			- Yueliang 5 (Lua compiler in Lua) - http://yueliang.luaforge.net/
